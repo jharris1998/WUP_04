@@ -1,7 +1,7 @@
 ---
 title: "WUP_04"
-author: "Put your name here!"
-date: "fall 2023"
+author: "Jarrod Harris"
+date: "Summer 2025"
 output:
   html_document:
     df_print: paged
@@ -17,6 +17,9 @@ require(tigerstats)
 # Introduction
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->
+
+
+
 
 The data is in the file GSScsv.csv and came from the 2018 General Social Survey.  The question to answer is to resolve this hypothesis.  
 $H_0$ There is no difference between the average score on the WORDSUM test and level of schooling DEGREE  
