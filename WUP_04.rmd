@@ -74,9 +74,8 @@ plot(TukeyHSD(model1, conf.level =0.98), las=2)
 
 From viewing the graph i can tell its a statistical difference between the high school graduates and college graduates, as well as the difference in the LT high school and graduate. Also the dotted line thats shown above 0 is the only thing that doesn't interfere with the LT graduates or the other graduates. 
 
-
-
-
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In this write up the data shows that individuals with higher education levels tend to have a higher WORDSUM score or IQ compared to those with a lower education level or GPA. This difference in LT high schools and normal high schools was shown through the boxplot and statistically confirmed by the "ANOVA"  test which led to me getting the results back and the number was (p=0.000236). 
