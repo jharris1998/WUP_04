@@ -43,7 +43,7 @@ basicCN <- ggplot(GSScsv,aes(x=DEGREE,y=WORDSUM))
 basicCN + geom_boxplot()
 ```
 
-
+In the plot the LT high and high school is under the jr college and bachelor schools. This plot shows 2 boxes are beneath the others and that they probably have a statistical difference 
 
 ### Numerical Descriptive Results
 
